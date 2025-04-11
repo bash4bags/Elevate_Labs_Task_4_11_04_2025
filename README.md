@@ -26,7 +26,9 @@
 > git add config.yaml
 > git commit -m "Added config.yaml file"
 > git push -u origin feature
-15. Creating a Pull request
+15. Creating a Pull request feature and dev
 16. Pull the updated dev branch locally
 > git checkou dev
 > git pull
+17. Creating pull request to merge dev to main
+18. 
