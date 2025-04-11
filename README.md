@@ -28,7 +28,7 @@
 > git push -u origin feature
 15. Creating a Pull request feature and dev
 16. Pull the updated dev branch locally
-> git checkou dev
+> git checkout dev
 > git pull
 17. Creating pull request to merge dev to main
-18. 
+18. Added git tag v1.0.0 for intial release
